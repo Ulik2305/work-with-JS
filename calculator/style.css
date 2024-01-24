@@ -1,0 +1,9 @@
+.box{
+    display: flex;
+}
+.container{
+    width: 500px;
+    height: 500px;
+    justify-content: center;
+    align-items: center;
+}
